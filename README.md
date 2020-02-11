@@ -7,9 +7,9 @@ To get started with any project firstly you need to initialize the repository by
 
 Then go get the local manifests
 
-Download lineage-16.0-rajatgupta1998.xml
-Rename it to lineage-16.0.xml
-And lastly move it to `*YOUR ROM DIRECTORY*/.repo/local_manifests`
+- Download lineage-16.0-rajatgupta1998.xml
+- Rename it to lineage-16.0.xml
+- And lastly move it to `*YOUR ROM DIRECTORY*/.repo/local_manifests`
 
 Then to sync up:
 
