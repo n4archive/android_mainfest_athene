@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- LineageOS Dependency Projects -->
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-16.0" />
+
+<!-- Moto G4 Plus Athene Projects -->
+  <project name="rajatgupta1998/android_device_motorola_athene" path="device/motorola/athene" remote="github" revision="lineage-16.0" />
+  <project name="rajatgupta1998/android_kernel_motorola_msm8952" path="kernel/motorola/msm8952" remote="github" revision="lineage-16.0" />
+  <project name="rajatgupta1998/android_vendor_motorola_athene" path="vendor/motorola/athene" remote="github" revision="lineage-16.0" />
+</manifest>
