@@ -17,7 +17,7 @@ Then to sync up:
 
 Then to build:
 
-     cd <source-dir>; . build/envsetup.sh; lunch lineage_athene-userdebug; brunch <device_name>
+     cd <source-dir>; . build/envsetup.sh; lunch lineage_athene-userdebug; brunch athene
 
 ## android_mainfest_athene
 © 2020 nift4
